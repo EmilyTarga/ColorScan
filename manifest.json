@@ -1,0 +1,10 @@
+{
+  "name": "Color Scan",
+  "description": "Browser extension that retrieves colors from page stylesheet",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "colors.html",
+    "default_icon": "color_extensions.png"
+  }
+}
